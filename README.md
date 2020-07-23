@@ -21,5 +21,5 @@ fmt.Printf("%x => %s\n", ciphertext, plaintext)
 
 to install the package
 ```
-go get github.com/alpha-hex/simpleciper
+go get github.com/alpha-hex/simplecipher
 ```
